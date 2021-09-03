@@ -1,0 +1,51 @@
+{"contenido": [
+  {"tag":"001",
+    "patrones": ["recargara pagina","refrescara", "hara F5", "el sistema se actualizara", "cada x segundos cargara de nuevo"],
+    "respuesta":["PE: El sistema refrescará la pantalla cada x segundos"]
+  },
+  {"tag":"002",
+    "patrones": ["Tendra los colores del Estado","Debera tener un color establecido", "debera seguir los lineamientos del Departamento de Seguridad Nacional"],
+    "respuesta":["LF: La aplicación deberá coincidir con el color del esquema establecido por el Departamento o entidad requerida"]
+  },
+  {"tag":"003",
+    "patrones": ["Los datos deberan proyectarse","los datos deben poder leerse", "los datos deben poder verse con claridad en la pantalla", "se puede leer los datos en una distancia considerable","los datos deben salir en pantalla"],
+    "respuesta":["US: Los espectadores deben ser capaces de leer los datos de eventos/actividades desde una distancia de visión no mayor a x metros"]
+  },
+  {"tag": "004",
+    "patrones": ["El sistema estara disponible en el horario laboral", "El sistema funcionara a cualquier hora","l producto estará disponible durante el horario laboral normal. Siempre que el usuario tenga acceso al PC cliente"],
+    "respuesta": ["A: El producto estará disponible durante el horario laboral normal. Siempre que el usuario tenga acceso al PC cliente"]
+  },
+  {"tag":"005",
+    "patrones": ["El sistema soportara varios usuarios en simultaneo","El sistema sera capaz de soportar varios usuarios simultaneo","habra varios usuarios en linea","podran estar conectados varios usuarios en linea"],
+    "respuesta":["US: El sistema soportara varios usuarios en simultaneo"]
+  },
+  {"tag": "006",
+    "patrones": ["Podra verificar roles para acceder","podra dar acceso solo a ciertas personas","solo podra usarse para personal autorizado"],
+    "respuesta": ["SE: El producto garantizará que sólo puedan acceder a él los usuarios autorizados.  El producto será capaz de distinguir entre usuarios autorizados y no autorizados en todos los intentos de acceso"]
+  },
+  {"tag": "007",
+    "patrones": ["Sera facil de usar", "El sistemas sera intuitivo","traera informacion para gente nueva","la gente nueva entendera de manera facil el sistema","sera entendible por cualquiera","El producto deberá ser intuitivo y autoexplicativo"],
+    "respuesta": ["US: El producto deberá ser intuitivo y autoexplicativo."]
+  },
+  {"tag": "008",
+    "patrones": ["El sistema sera rapido", "quiero que sea rapido", "el sistema debe funcionar con gran velocidad","El sistema debera mantener los datos en pantalla" ],
+    "respuesta": ["PE: El producto deberá responder rápidamente para mantener los datos actualizados en la pantalla." ]
+  },
+  {"tag": "009",
+    "patrones": ["El sistema mostrara los datos en tablas", "el sistema mostrara graficos","el sistema podra permitir la opcion de visualización "],
+    "respuesta": ["F: El sistema deberá contar con un formulario MDI que permita visualizar el gráfico y la tabla de datos."]
+  },
+  {"tag": "010",
+    "patrones": ["Mostrara los eventos en lista", "debera mostrar una lista de eventos","El sistema debera mostrar la cola de eventos"],
+    "respuesta": ["F:, El sistema mostrará los Eventos en una tabla vertical por tiempo."]
+  },
+  {"tag": "011",
+    "patrones": ["el sistema podra contactar con otros equipos","el sistema podra usar la impresora", "el sistema podra usar otros hardwares"],
+    "respuesta": ["F: el sistema podra comunicarse con otros equipos como lo requiera"]
+  },
+  {"tag":"012",
+    "patrones": ["El sistema permitira hacer busquedas","debera tener busquedas rapidas","debera hacer busquedas"],
+    "respuesta":["PE: el sistema debera hacer una busqueda intensiva que no dure mas de x segundos"]
+  }
+  ]
+}
